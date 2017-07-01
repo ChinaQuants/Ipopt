@@ -6,6 +6,6 @@
 	>
 	<UserMacro
 		Name="INTEL_COMPILER_PATH"
-		Value="C:\Program Files (x86)\Intel\Compiler\11.1\060"
+		Value="D:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.2.187\windows\bin\intel64"
 	/>
 </VisualStudioPropertySheet>
