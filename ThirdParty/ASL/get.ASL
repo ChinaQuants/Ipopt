@@ -26,7 +26,7 @@ echo " "
 rm -f $coinasl.tar.gz
 
 echo "Downloading the source code from Github..."
-if $wgetcmd https://github.com/ampl/mp/archive/$coinasl.tar.gz ;
+if $wgetcmd https://github.com/ampl/mp/archive/$coinasl.tar.gz --no-check-certificate;
 then
   echo "Download finished."
 else
